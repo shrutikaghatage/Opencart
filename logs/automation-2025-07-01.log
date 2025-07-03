@@ -1,0 +1,60 @@
+17:10:11.863 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\grouping.xml
+
+17:10:19.650 [main] DEBUG testCases.TC001RegistrationPage - application logs started......
+17:10:19.651 [main] INFO  testCases.TC001RegistrationPage - **** starting TC_001_AccountRegistrationTest  *****
+17:10:20.107 [main] INFO  testCases.TC001RegistrationPage - Clicked on MyAccount link
+17:10:21.587 [main] INFO  testCases.TC001RegistrationPage - Clicked on registration link
+17:10:21.587 [main] INFO  testCases.TC001RegistrationPage - Entering customer details.. 
+17:10:25.522 [main] INFO  testCases.TC001RegistrationPage - clicked on continue..
+17:10:25.652 [main] INFO  testCases.TC001RegistrationPage - Validating expected message..
+17:10:25.660 [main] DEBUG testCases.TC001RegistrationPage - application logs end.......
+17:10:25.660 [main] INFO  testCases.TC001RegistrationPage - **** finished TC_001_AccountRegistrationTest  *****
+17:10:32.997 [main] INFO  testCases.TC002_Login_Test - **** Starting TC_002_LoginTest  ****
+17:10:32.997 [main] DEBUG testCases.TC002_Login_Test - capturing application debug logs....
+17:10:33.393 [main] INFO  testCases.TC002_Login_Test - clicked on myaccount link on the home page..
+17:10:34.080 [main] INFO  testCases.TC002_Login_Test - clicked on login link under myaccount..
+17:10:34.090 [main] INFO  testCases.TC002_Login_Test - Entering valid email and password..
+17:10:35.735 [main] INFO  testCases.TC002_Login_Test - clicked on ligin button..
+17:16:39.419 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\grouping.xml"
+17:16:40.477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\grouping.xml
+
+17:16:49.079 [main] DEBUG testCases.TC001RegistrationPage - application logs started......
+17:16:49.079 [main] INFO  testCases.TC001RegistrationPage - **** starting TC_001_AccountRegistrationTest  *****
+17:16:49.669 [main] INFO  testCases.TC001RegistrationPage - Clicked on MyAccount link
+17:16:51.177 [main] INFO  testCases.TC001RegistrationPage - Clicked on registration link
+17:16:51.177 [main] INFO  testCases.TC001RegistrationPage - Entering customer details.. 
+17:16:54.246 [main] INFO  testCases.TC001RegistrationPage - clicked on continue..
+17:16:54.359 [main] INFO  testCases.TC001RegistrationPage - Validating expected message..
+17:16:54.369 [main] DEBUG testCases.TC001RegistrationPage - application logs end.......
+17:16:54.369 [main] INFO  testCases.TC001RegistrationPage - **** finished TC_001_AccountRegistrationTest  *****
+17:16:59.026 [main] INFO  testCases.TC002_Login_Test - **** Starting TC_002_LoginTest  ****
+17:16:59.026 [main] DEBUG testCases.TC002_Login_Test - capturing application debug logs....
+17:16:59.325 [main] INFO  testCases.TC002_Login_Test - clicked on myaccount link on the home page..
+17:17:00.041 [main] INFO  testCases.TC002_Login_Test - clicked on login link under myaccount..
+17:17:00.051 [main] INFO  testCases.TC002_Login_Test - Entering valid email and password..
+17:17:01.952 [main] INFO  testCases.TC002_Login_Test - clicked on ligin button..
+17:17:56.078 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\grouping.xml"
+17:17:57.086 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\grouping.xml
+
+17:18:03.086 [main] DEBUG testCases.TC001RegistrationPage - application logs started......
+17:18:03.088 [main] INFO  testCases.TC001RegistrationPage - **** starting TC_001_AccountRegistrationTest  *****
+17:18:03.489 [main] INFO  testCases.TC001RegistrationPage - Clicked on MyAccount link
+17:18:04.360 [main] INFO  testCases.TC001RegistrationPage - Clicked on registration link
+17:18:04.360 [main] INFO  testCases.TC001RegistrationPage - Entering customer details.. 
+17:18:07.648 [main] INFO  testCases.TC001RegistrationPage - clicked on continue..
+17:18:07.767 [main] INFO  testCases.TC001RegistrationPage - Validating expected message..
+17:18:07.772 [main] DEBUG testCases.TC001RegistrationPage - application logs end.......
+17:18:07.774 [main] INFO  testCases.TC001RegistrationPage - **** finished TC_001_AccountRegistrationTest  *****
+17:18:13.068 [main] INFO  testCases.TC002_Login_Test - **** Starting TC_002_LoginTest  ****
+17:18:13.068 [main] DEBUG testCases.TC002_Login_Test - capturing application debug logs....
+17:18:13.347 [main] INFO  testCases.TC002_Login_Test - clicked on myaccount link on the home page..
+17:18:13.902 [main] INFO  testCases.TC002_Login_Test - clicked on login link under myaccount..
+17:18:13.910 [main] INFO  testCases.TC002_Login_Test - Entering valid email and password..
+17:18:15.907 [main] INFO  testCases.TC002_Login_Test - clicked on ligin button..
+17:19:21.848 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\test-output\testng-failed.xml"
+17:19:22.577 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\test-output\testng-failed.xml
+

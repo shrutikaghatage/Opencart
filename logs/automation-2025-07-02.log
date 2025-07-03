@@ -1,0 +1,51 @@
+22:19:58.227 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:19:58.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:19:58.245 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:19:58.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:19:58.255 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:19:58.281 [main] INFO  testCases.TC003_Login_DDT - **** Starting TC_003_LoginDDT *****
+22:20:01.285 [main] INFO  testCases.TC003_Login_DDT - **** Finished TC_003_LoginDDT *****
+22:20:01.315 [main] INFO  testCases.TC003_Login_DDT - **** Starting TC_003_LoginDDT *****
+22:20:03.732 [main] INFO  testCases.TC003_Login_DDT - **** Finished TC_003_LoginDDT *****
+22:20:03.752 [main] INFO  testCases.TC003_Login_DDT - **** Starting TC_003_LoginDDT *****
+22:20:06.722 [main] INFO  testCases.TC003_Login_DDT - **** Starting TC_003_LoginDDT *****
+22:20:19.424 [main] INFO  testCases.TC003_Login_DDT - **** Finished TC_003_LoginDDT *****
+22:20:19.426 [main] INFO  testCases.TC003_Login_DDT - **** Starting TC_003_LoginDDT *****
+22:20:22.543 [main] INFO  testCases.TC003_Login_DDT - **** Finished TC_003_LoginDDT *****
+22:21:57.754 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:24:26.346 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:26:51.372 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:28:17.825 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:29:24.235 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:30:01.325 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:30:01.690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml
+
+22:30:41.534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:30:41.894 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml
+
+22:30:49.190 [main] INFO  testCases.TC002_Login_Test - **** Starting TC_002_LoginTest  ****
+22:30:49.190 [main] DEBUG testCases.TC002_Login_Test - capturing application debug logs....
+22:30:49.422 [main] INFO  testCases.TC002_Login_Test - clicked on myaccount link on the home page..
+22:30:49.923 [main] INFO  testCases.TC002_Login_Test - clicked on login link under myaccount..
+22:30:49.924 [main] INFO  testCases.TC002_Login_Test - Entering valid email and password..
+22:30:51.623 [main] INFO  testCases.TC002_Login_Test - clicked on ligin button..
+22:30:51.697 [main] INFO  testCases.TC002_Login_Test - **** Finished TC_002_LoginTest  ****
+22:31:15.274 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:33:01.209 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+22:33:07.441 [main] INFO  testCases.TC002_Login_Test - **** Starting TC_002_LoginTest  ****
+22:33:07.443 [main] DEBUG testCases.TC002_Login_Test - capturing application debug logs....
+22:33:07.636 [main] INFO  testCases.TC002_Login_Test - clicked on myaccount link on the home page..
+22:33:07.963 [main] INFO  testCases.TC002_Login_Test - clicked on login link under myaccount..
+22:33:07.964 [main] INFO  testCases.TC002_Login_Test - Entering valid email and password..
+22:33:08.344 [main] INFO  testCases.TC002_Login_Test - clicked on ligin button..
+22:33:09.506 [main] INFO  testCases.TC002_Login_Test - **** Finished TC_002_LoginTest  ****
+23:43:10.068 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+23:44:52.664 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\Opencart\Master.xml"
+23:45:10.808 [main] INFO  testCases.TC002_Login_Test - **** Starting TC_002_LoginTest  ****
+23:45:10.814 [main] DEBUG testCases.TC002_Login_Test - capturing application debug logs....
+23:45:12.749 [main] INFO  testCases.TC002_Login_Test - clicked on myaccount link on the home page..
+23:45:13.838 [main] INFO  testCases.TC002_Login_Test - clicked on login link under myaccount..
+23:45:13.862 [main] INFO  testCases.TC002_Login_Test - Entering valid email and password..
+23:45:17.032 [main] INFO  testCases.TC002_Login_Test - clicked on ligin button..
